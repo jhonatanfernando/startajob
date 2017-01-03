@@ -1,0 +1,16 @@
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Runtime.Serialization.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.ServiceModel.Internals.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/SmallTest.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.iOS.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Platform.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Xml.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.iOS.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/SmallTest.iOS.exe
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Core.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Xaml.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.ServiceModel.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/mscorlib.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Xamarin.Forms.Core.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/System.Net.Http.dll
+/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest.iOS/obj/iPhone/Debug/mtouch-cache/32/Link/Mono.Dynamic.Interpreter.dll
