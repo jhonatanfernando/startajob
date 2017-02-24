@@ -1,33 +1,19 @@
-﻿<Properties StartupConfiguration="{07965DC7-B4ED-4552-A81C-8833BBED1E5C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="SmallTest/SmallTest/Model/BaseEntity.cs">
+﻿<Properties StartupConfiguration="{8216ADD3-FB84-4ABB-A205-A48952052236}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ViewModel/LoginViewModel.cs">
     <Files>
-      <File FileName="SmallTest/SmallTest/ViewModel/BaseViewModel.cs" Line="6" Column="19" />
-      <File FileName="SmallTest/SmallTest/ViewModel/LoginViewModel.cs" Line="44" Column="1" />
-      <File FileName="SmallTest/SmallTest/Model/Login.cs" Line="12" Column="25" />
-      <File FileName="SmallTest/SmallTest/App.xaml.cs" Line="13" Column="3" />
-      <File FileName="SmallTest/SmallTest.Droid/MainActivity.cs" Line="24" Column="27" />
-      <File FileName="SmallTest/SmallTest/Views/MainPage.xaml.cs" Line="16" Column="4" />
-      <File FileName="SmallTest/SmallTest/Views/MainPage.xaml" Line="5" Column="72" />
-      <File FileName="SmallTest/SmallTest/Service/SoapWebservice.cs" Line="21" Column="40" />
-      <File FileName="SmallTest/SmallTest.iOS/Main.cs" Line="17" Column="1" />
-      <File FileName="SmallTest/SmallTest/Service/StartJobService.cs" Line="5" Column="7" />
-      <File FileName="SmallTest/SmallTest/Model/Entity.cs" Line="12" Column="27" />
-      <File FileName="SmallTest/SmallTest/Service/ServiceSoap.cs" Line="72" Column="72" />
-      <File FileName="SmallTest/SmallTest/packages.config" Line="1" Column="1" />
-      <File FileName="SmallTest/SmallTest/Model/ResultError.cs" Line="4" Column="39" />
-      <File FileName="SmallTest/SmallTest/Model/BaseEntity.cs" Line="7" Column="3" />
+      <File FileName="Model/Entity.cs" Line="16" Column="1" />
+      <File FileName="packages.config" Line="1" Column="1" />
+      <File FileName="ViewModel/BaseViewModel.cs" Line="15" Column="1" />
+      <File FileName="Views/MainPage.xaml.cs" Line="13" Column="47" />
+      <File FileName="ViewModel/LoginViewModel.cs" Line="59" Column="45" />
+      <File FileName="Service/ServiceSoap.cs" Line="10" Column="32" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
-  <MonoDevelop.Ide.ItemProperties.SmallTest.Droid PreferredExecutionTarget="Android.Nexus" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest/ViewModel/LoginViewModel.cs" line="44" column="1" />
-      <Breakpoint file="/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest/Service/SoapWebservice.cs" line="47" column="1" />
-      <Breakpoint file="/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest/Service/StartJobService.cs" line="49" column="1" />
-      <Breakpoint file="/Users/jhonatanfernando/Projects/Startajob/startajob/SmallTest/SmallTest/SmallTest/Service/StartJobService.cs" line="40" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.SmallTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.0CBFD10D-88DF-4D0D-AE17-4924E4068297" />
+  <MonoDevelop.Ide.ItemProperties.SmallTest.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.CBDBE548-A312-48B3-8661-CD5CDB3C7F9D" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
 </Properties>
